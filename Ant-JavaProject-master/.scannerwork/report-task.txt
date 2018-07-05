@@ -1,0 +1,6 @@
+projectKey=com.mt.ant-Javaproject
+serverUrl=http://localhost:9000
+serverVersion=7.2.0.13530
+dashboardUrl=http://localhost:9000/dashboard?id=com.mt.ant-Javaproject
+ceTaskId=AWRFIO9JQgcS2b-OxBDY
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWRFIO9JQgcS2b-OxBDY
